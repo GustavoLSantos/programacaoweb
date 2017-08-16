@@ -1,0 +1,22 @@
+body {
+    background-image: url(http://cdn.wallpapersafari.com/0/90/3AmtDQ.png);
+}
+
+main {
+    border: 3px solid #FF1493;
+}
+
+footer {
+    border: 3px solid #FF1493;
+}
+
+nav{
+    border: 3px solid #FF1493;
+}
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+}
