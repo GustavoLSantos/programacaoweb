@@ -1,0 +1,29 @@
+p, h1 {
+    color: MediumVioletRed;
+}
+
+h1 {
+    border: 3px solid DimGray;
+}
+
+header {
+    text-align: center;
+    font-family: fantasy;
+    font-size: 200%;
+}
+
+main {
+    text-align: center;
+    font-family: cursive;
+    font-size: 150%;
+}
+
+footer {
+    text-align: center;
+    font-family: inherit;
+    font-size: 125%;
+}
+
+body {
+    background-color: Pink;
+}
